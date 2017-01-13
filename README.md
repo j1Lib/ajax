@@ -24,3 +24,4 @@ Example:
 
 - method
 
+[Imgur](http://i.imgur.com/RfEPSdh.png)
