@@ -23,5 +23,3 @@ Example:
 - fail callback
 
 - method
-
-[Imgur](http://i.imgur.com/RfEPSdh.png)
